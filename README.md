@@ -44,6 +44,8 @@ code.
 ```
 Above is part of the html code as of now. Before, the code had no sementic elements and the spacing/indentation made the program harder to digest.
 
+# Credits
+This program was given to me By UCB 
 
 ## Author Links
 [LinkedIn](https://www.linkedin.com/in/jefflchan/)

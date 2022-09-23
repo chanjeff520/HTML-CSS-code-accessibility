@@ -1,3 +1,4 @@
+/* Change some of the headers and class so the HTML can read the CSS */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -50,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/* have to change the background into img in html to give this an alt element */
 .hero {
     height: 800px;
     width: 100%;
